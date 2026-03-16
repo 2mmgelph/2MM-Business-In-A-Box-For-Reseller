@@ -223,7 +223,7 @@
       font-family: 'DM Sans', sans-serif;
       font-weight: 300;
       font-size: 0.85rem;
-      color: #0EC3E1;
+      color: var(--soft);
       line-height: 1.45;
     }
 
