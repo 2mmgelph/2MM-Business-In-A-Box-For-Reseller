@@ -1,4 +1,4 @@
-   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
       --cream: #FFF8BD;
@@ -106,7 +106,7 @@
       font-size: 3rem;
       font-weight: 400;
       font-style: italic;
-      color: var(--cyan);
+      color: var(--cyan-dark);
       line-height: 1.05;
       display: block;
     }
@@ -212,10 +212,10 @@
     .card-body { flex: 1; }
 
     .card-title {
-      font-family: 'DM Serif Display', serif;
+      font-family: 'DM Sans', serif;
       font-size: 1.05rem;
       font-weight: 700;
-      color: var(--soft);
+      color: var(--cyan-dark);
       margin-bottom: 4px;
     }
 
