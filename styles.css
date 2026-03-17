@@ -223,7 +223,7 @@
     .card-desc {
       font-family: 'DM Sans', sans-serif;
       font-weight: 700;
-      color: var(--cyan);
+      color: var(--soft);
       line-height: 1.45;
     }
 
